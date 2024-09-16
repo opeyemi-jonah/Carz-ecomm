@@ -1,0 +1,6 @@
+@Carz_ecomm.Server_HostAddress = http://localhost:5287
+
+GET {{Carz_ecomm.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
